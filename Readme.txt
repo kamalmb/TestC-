@@ -5,4 +5,4 @@ cmd :
 .\myOutput.exe .\text.txt
 
 
-Required time to realise the C++ project : 2h15
+Required time to realize the C++ project : 2h15
